@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 
 Test for no fast forward module.
 
-Git is a free software.
+Git is a free software and test...
